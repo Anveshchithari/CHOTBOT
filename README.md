@@ -9,4 +9,4 @@ The database "Chatbot" consists of two collections:
 2. "user_issues"
 The issues.txt file contains the database schema of major issues  by the user made into the database.
 ## Ngrok
-I have used Ngrok To communicate with APIs we need to create a webhook. This webhook is triggered by an event. if a user sends a message to your page, the Messenger API sends a POST request to your webhook.it’s a tunneling package that makes your localhost accessible online.
+I have used Ngrok, To communicate with APIs we need to create a webhook. This webhook is triggered by an event. if a user sends a message to your page, the Messenger API sends a POST request to your webhook.ngrok is a tunneling package that makes your localhost accessible online.
