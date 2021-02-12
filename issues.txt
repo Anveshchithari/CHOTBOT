@@ -1,0 +1,101 @@
+chatbot{
+
+{"_id":{"$oid":"601bb535f46bf32c5c7e4397"},
+"username":"Anvesh",
+"issue":"Slow Internet",
+"status":"pending",
+"time_date":"2021-2-4",
+"trouble_ticket":"3AxqEwq"
+}
+{"_id"{"$oid":"601bb699070e6603187c6cea"},
+"username":"Manish",
+"issue":"Internet Down",
+"status":"pending",
+"time_date":"2021-2-4",
+"trouble_ticket":"ViGYUKk"
+}
+{
+"_id":{"$oid":"601bb699070e6603187c6cea"},
+"username":"Vinnu",
+"issue":"Internet Down",
+"status":"pending",
+"time_date":"2021-2-4",
+"trouble_ticket":"ViGYUKk"
+}
+{"_id":{"$oid":"601bf4d9107c4c0d64aa3812"},
+"username":"akhul",
+"issue":"Buffering problem",
+"status":"pending",
+"time_date":"2021-2-4",
+"trouble_ticket":"xyb24bV"
+}
+{"_id":{"$oid":"601bf5c8107c4c0d64aa3813"},
+"username":"Ram",
+"issue":"Slow Internet",
+"status":"pending",
+"time_date":"2021-2-4",
+"trouble_ticket":"S9yPpTc"
+}
+{"_id":{"$oid":"601d191e178111051cecce56"},
+"username":"ramesh",
+"issue":"Buffering problem",
+"status":"pending",
+"time_date":"2021-2-5",
+"trouble_ticket":"XDt4gsN"
+}
+{"_id":{"$oid":"601d263e76e48219484f95bb"},
+"username":"venkateh",
+"issue":"site not reach",
+"status":"pending",
+"time_date":"2021-2-5",
+"trouble_ticket":"GPAuR8j"
+}
+
+
+
+
+
+user_issues
+_id ObjectId                   username String          issue Mixed             status String          time_date String        trouble_ticket String
+
+1 601bb535f46bf32c5c7e4397      anvesh			"Slow Internet"		"pending"		"2020-11-20"		"3AxqEwq"
+
+2 601bb699070e6603187c6cea	"manish"		"Internet Down"		"pending"		"2020-12-4"		"ViGYUKk"
+
+3 601bb6c1070e6603187c6ceb	"Akhil"			"Slow Internet"		"pending"		"2021-1-4"		"Iqz1GDz"
+
+4 601bf4d9107c4c0d64aa3812	"Sriram"		"Buffering problem"	"pending"		"2021-1-5"		"xyb24bV"
+
+5 601bf5c8107c4c0d64aa3813	"Aneesh"		"Slow Internet"		"pending"		"2021-2-4"		"S9yPpTc"
+
+6 601d17d7178111051cecce55	"Ventakesh"		"No connectivity"	"pending"		"2021-2-6"		"oBFFNKH"
+
+7 601d191e178111051cecce56	"Ram"			"Buffering problem"	"pending"		"2021-3-6"		"XDt4gsN"
+
+8 601d256d76e48219484f95ba	"Ramesh"		"reloading"		"pending"		"2021-3-8"		"nd5HOrY"
+
+9 601d264476e48219484f95bc	"Tom"			null			"pending"		"2021-3-8"		"QcAArzO"
+
+10 601d263e76e48219484f95bb	"Arjun"			"site not reach"	"pending"		"2021-3-10"		"GPAuR8j"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
